@@ -3,7 +3,7 @@ title: Honey Liliko‘i Foam
 slug: 1726330512509-honey-liliko-i-foam
 published: true
 created: 2024-09-14 09:15
-updated: 2024-09-14 09:16
+updated: 2024-09-14 09:19
 tags:
   - foam
   - passionfruit
@@ -15,13 +15,13 @@ tags:
 
 ## Ingredients
 
-| Ingredient         | Amount / Weight | Note                     |
-| ------------------ | --------------- | ------------------------ |
-| honey              | 1/2 oz          |                          |
-| passionfruit purée | 1 oz            | Liliko‘i or passionfruit |
-| simple syrup       | 1 oz            |                          |
-| egg white          | 1 oz            |                          |
-| cold water         | 1.5 oz          |                          |
+| Ingredient         | Amount / Weight | Note |
+| ------------------ | --------------- | ---- |
+| honey              | 1/2 oz          |      |
+| passionfruit purée | 1 oz            |      |
+| simple syrup       | 1 oz            |      |
+| egg white          | 1 oz            |      |
+| cold water         | 1.5 oz          |      |
 
 ## Steps
 
