@@ -3,67 +3,66 @@ title: Liliko'i Rum Punch Medley
 slug: 1726330319079-liliko-i-rum-punch-medley
 published: true
 created: 2024-09-14 09:11
-updated: 2024-09-14 09:14
+updated: 2024-09-14 12:35
 tags:
-  - tropical
-  - cocktails
-  - rum
-  - punch
-  - passion
-  - fruit
+  - tropical cocktails
+  - rum punch
+  - passion fruit
   - pineapple
-  - syrup
-  - balsamic
-  - twist
+  - meyer lemon
 ---
 
 **Yield:** 2 servings
 
 ## Ingredients
 
-### Liliko'i Rum Punch
+### Rum Punch
 
-| Ingredient                   | Amount / Weight | Note                           |
-| ---------------------------- | --------------- | ------------------------------ |
-| Passion fruits               | 2               | Pulp scooped out               |
-| Fresh lemon juice            | 2 oz            |                                |
-| Fresh lime juice             | 2 oz            |                                |
-| Pineapple Rose Syrup         | 2 oz            | See syrup recipe below         |
-| Rum                          | 4 oz            | Light or dark, adjust to taste |
-| Apricot brandy               | 1 oz            |                                |
-| Grenadine                    | 1 oz            |                                |
-| Balsamic vinegar             | 1 oz            | High-quality aged              |
-| Frozen cantaloupe            | 1/2 cup         | Muddled                        |
-| Bitters                      | Dash            |                                |
-| Ice                          | As needed       |                                |
-| Pineapple slices/lime wedges | For garnish     | Optional                       |
+| Ingredient        | Amount / Weight | Note                              |
+| ----------------- | --------------- | --------------------------------- |
+| Fresh pineapple   | 1/2 cup         | Muddled with Meyer lemon          |
+| Meyer lemon       | 1               | Divided, juice and segments used  |
+| Passion fruits    | 2               | Pulp scooped out                  |
+| Fresh lime juice  | 1/2 lime        | Juice used                        |
+| Grenadine         | 1 capful        | Adjust to taste                   |
+| Light rum         | 1 oz            |                                   |
+| Dark rum          | 1 oz            |                                   |
+| Spiced rum        | 1 oz            |                                   |
+| Apricot brandy    | 1 oz            |                                   |
+| Aperol            | 1 capful        | Optional                          |
+| Bitters           | Dash            |                                   |
+| Balsamic vinegar  | Dash            | High-quality, aged                |
+| Frozen cantaloupe | 1/2 cup         | Used in place of ice for shaking  |
+| Ice               | As needed       | Serve over ice in chilled glasses |
 
 ### Pineapple Rose Syrup
 
-| Ingredient            | Amount / Weight | Note            |
-| --------------------- | --------------- | --------------- |
-| Fresh pineapple cubes | 1 cup           |                 |
-| Water                 | 1/2 cup         |                 |
-| Honey (or sugar)      | 1/2 cup         | Adjust to taste |
-| Brewed rose tea       | 1/2 cup         |                 |
+| Ingredient            | Amount / Weight | Note                         |
+| --------------------- | --------------- | ---------------------------- |
+| Fresh pineapple cubes | 1/2 cup         | Muddled                      |
+| Meyer lemon           | 1/2             | Juice and segments used      |
+| Honey (or sugar)      | 1/4 cup         | Adjust to taste              |
+| Water                 | 1 cup           |                              |
+| Rose tea              | 2-3 tea bags    | Brewed directly in the syrup |
 
 ## Steps
 
-### To prepare Pineapple Rose Syrup:
+### To prepare the Pineapple Rose Syrup:
 
-1. In a saucepan, combine fresh pineapple cubes, water, and honey (or sugar).
-2. Simmer over medium heat for 10-15 minutes until the pineapple softens and the mixture thickens slightly.
-3. Remove from heat and stir in brewed rose tea.
-4. Strain to remove pineapple solids and set the syrup aside to cool.
+1. In a small saucepan, muddle 1/2 cup fresh pineapple with the juice and segments from half a Meyer lemon.
+2. Add 1/4 cup honey (or sugar) and 1 cup water, bringing the mixture to a gentle simmer over medium heat.
+3. Once simmering, add 2-3 rose tea bags directly to the saucepan and let steep for about 5 minutes.
+4. Remove the tea bags, continue simmering for another 5 minutes, then strain the syrup to remove the pineapple solids. Set aside to cool.
 
-### To make Liliko'i Rum Punch:
+### To make the Rum Punch:
 
-1. In a large shaker, muddle the frozen cantaloupe to release juices and help chill the drink.
-2. Add the passion fruit pulp, lemon juice, lime juice, Pineapple Rose Syrup, rum, apricot brandy, grenadine, and balsamic vinegar to the shaker.
-3. Add ice and shake vigorously until the mixture is well chilled.
-4. Strain the cocktail into two glasses filled with ice.
+1. In a shaker, muddle the remaining fresh pineapple with the pulp of 2 passion fruits, the juice of the other half of the Meyer lemon, and the juice from half a lime.
+2. Add a capful of grenadine, light rum, dark rum, spiced rum, apricot brandy, and a capful of Aperol (if using).
+3. Add a dash of bitters and a dash of balsamic vinegar for added depth.
+4. Instead of ice, add 1/2 cup of frozen cantaloupe to the shaker and shake vigorously to chill the drink.
 
-### To finish:
+### To assemble:
 
-1. Add a dash of bitters to each glass.
-2. Garnish with a pineapple slice or lime wedge if desired.
+1. Mix the chilled punch with the prepared Pineapple Rose Syrup.
+2. Strain the mixture into two chilled glasses half-filled with ice (or ideally, a large ice cube for slower dilution).
+3. Garnish with a pineapple slice or citrus wedge if desired.
