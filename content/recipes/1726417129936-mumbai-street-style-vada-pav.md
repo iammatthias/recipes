@@ -3,7 +3,7 @@ title: Mumbai Street Style Vada Pav
 slug: 1726417129936-mumbai-street-style-vada-pav
 published: true
 created: 2024-09-15 09:18
-updated: 2024-09-15 09:21
+updated: 2024-09-26 09:59
 tags:
   - indian
   - street
@@ -78,11 +78,11 @@ tags:
 2. Add ground garlic, ginger, and green chilies. Sauté until fragrant.
 3. Stir in turmeric, garam masala, and salt.
 4. Add boiled, mashed potatoes and fresh coriander. Mix well and let it cool.
-5. Once cooled, form potato mixture into small balls.
+5. Once cooled, form the potato mixture into small balls.
 
 ### To make the Besan Batter:
 1. In a bowl, combine gram flour, turmeric, ajwain, and salt.
-2. Add water gradually to create a smooth, lump-free batter.
+2. Gradually add water to create a smooth, lump-free batter.
 
 ### To make the Chura (Crispy Batter Crumbs):
 1. Dip your fingertips into the prepared besan batter and roughly pour the batter into hot oil.
@@ -93,10 +93,10 @@ tags:
 2. Grind the mixture into a coarse chutney.
 
 ### To make the Green Chutney:
-1. Blend coriander, garlic, ginger, green chilies, water, and salt until smooth. Adjust consistency as needed.
+1. Blend fresh coriander, garlic, ginger, green chilies, water, and salt until smooth. Adjust consistency as needed.
 
 ### To fry the Vada:
-1. Heat oil for frying. Dip the prepared potato balls in the besan batter.
+1. Heat oil for frying. Dip the prepared potato balls into the besan batter.
 2. Fry the vadas on medium heat until golden and crispy. Drain on paper towels.
 
 ### To assemble the Vada Pav:
