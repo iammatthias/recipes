@@ -1,9 +1,10 @@
 ---
+id: 1710564234519
 title: Fermented Hot Honey
 slug: 1710564234519-fermented-hot-honey
 published: true
 created: 2024-03-15 21:43
-updated: 2024-08-07 11:15
+updated: 2024-10-19 21:15
 tags:
   - condiments
   - spicy
@@ -18,6 +19,7 @@ tags:
 ## Ingredients
 
 ### Base Ingredients
+
 | Ingredient          | Amount / Weight | Note                       |
 | ------------------- | --------------- | -------------------------- |
 | Raw honey           | 1 cup           | Unfiltered                 |
@@ -27,11 +29,12 @@ tags:
 | Sea salt            | 1-2 teaspoons   | Adjust based on preference |
 
 ### Roasted Ingredients
-| Ingredient          | Amount / Weight | Note                       |
-| ------------------- | --------------- | -------------------------- |
-| Garlic cloves       | 2-3 cloves      | Whole, unpeeled            |
-| Shallot             | 1 medium        | Halved, unpeeled           |
-| Chili peppers       | 2-3             | Whole                      |
+
+| Ingredient    | Amount / Weight | Note             |
+| ------------- | --------------- | ---------------- |
+| Garlic cloves | 2-3 cloves      | Whole, unpeeled  |
+| Shallot       | 1 medium        | Halved, unpeeled |
+| Chili peppers | 2-3             | Whole            |
 
 ## Steps
 

@@ -1,9 +1,10 @@
 ---
+id: 1713300772377
 title: Thai Curry Sweet Potato Soup
 slug: 1713300772377-thai-curry-sweet-potato-soup
 published: true
 created: 2024-04-16 13:52
-updated: 2024-04-19 16:52
+updated: 2024-10-19 21:15
 tags:
   - thai
   - soup

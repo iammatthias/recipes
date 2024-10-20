@@ -1,9 +1,10 @@
 ---
+id: 1714335695318
 title: Vegetarian Coconut Curry Ramen
 slug: 1714335695318-vegetarian-coconut-curry-ramen
 published: true
 created: 2024-04-28 13:21
-updated: 2024-05-16 14:24
+updated: 2024-10-19 21:16
 tags:
   - "#ramen"
   - "#vegetarian"
@@ -16,26 +17,26 @@ tags:
 
 ## Ingredients for Coconut Curry Broth
 
-| Ingredient           | Amount / Weight  | Note                             |
-| -------------------- | ---------------- | -------------------------------- |
-| Coconut milk         | 400 ml           | Full-fat                         |
-| Green curry paste    | 2 tablespoons    | Adjust to taste for spiciness    |
-| Vegetable stock      | 1 liter          |                                  |
-| Soy sauce            | 1 tablespoon     |                                  |
-| Brown sugar          | 1 teaspoon       |                                  |
-| Ginger               | 20g              | Minced                           |
-| Garlic               | 2 cloves         | Minced                           |
-| Lime                 | 1                | Juice extracted                  |
+| Ingredient        | Amount / Weight | Note                          |
+| ----------------- | --------------- | ----------------------------- |
+| Coconut milk      | 400 ml          | Full-fat                      |
+| Green curry paste | 2 tablespoons   | Adjust to taste for spiciness |
+| Vegetable stock   | 1 liter         |                               |
+| Soy sauce         | 1 tablespoon    |                               |
+| Brown sugar       | 1 teaspoon      |                               |
+| Ginger            | 20g             | Minced                        |
+| Garlic            | 2 cloves        | Minced                        |
+| Lime              | 1               | Juice extracted               |
 
 ## Ingredients for Ramen
 
-| Ingredient           | Amount / Weight  | Note                             |
-| -------------------- | ---------------- | -------------------------------- |
-| Ramen noodles        | 200g             | Fresh                            |
-| Baby spinach         | 150g             | Fresh                            |
-| Corn                 | 100g             | Fresh or frozen                  |
-| Soft boiled eggs     | 2                | Halved                           |
-| Scallions            | 2 stalks         | Thinly sliced                    |
+| Ingredient       | Amount / Weight | Note            |
+| ---------------- | --------------- | --------------- |
+| Ramen noodles    | 200g            | Fresh           |
+| Baby spinach     | 150g            | Fresh           |
+| Corn             | 100g            | Fresh or frozen |
+| Soft boiled eggs | 2               | Halved          |
+| Scallions        | 2 stalks        | Thinly sliced   |
 
 ## Steps for Coconut Curry Broth
 

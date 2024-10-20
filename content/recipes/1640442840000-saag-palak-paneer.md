@@ -1,9 +1,10 @@
 ---
+id: 1640442840000
 title: Saag (Palak) Paneer
 slug: 1640442840000-saag-palak-paneer
 published: true
 created: 2021-12-24 12:54
-updated: 2024-04-19 16:52
+updated: 2024-10-19 21:14
 tags:
   - spinach
   - paneer

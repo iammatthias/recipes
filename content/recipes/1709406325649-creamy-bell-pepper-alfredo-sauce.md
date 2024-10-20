@@ -1,9 +1,10 @@
 ---
+id: 1709406325649
 title: Creamy Bell Pepper Alfredo Sauce
 slug: 1709406325649-creamy-bell-pepper-alfredo-sauce
 published: true
 created: 2024-03-02 19:05
-updated: 2024-04-19 16:52
+updated: 2024-10-19 21:14
 tags:
   - pasta
   - sauce
