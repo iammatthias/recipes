@@ -1,10 +1,9 @@
 ---
-id: 1710564234519
 title: Fermented Hot Honey
 slug: 1710564234519-fermented-hot-honey
 published: true
 created: 2024-03-15 21:43
-updated: 2024-10-19 21:15
+updated: 2024-10-20 14:23
 tags:
   - condiments
   - spicy

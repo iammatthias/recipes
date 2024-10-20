@@ -1,10 +1,9 @@
 ---
-id: 1602523680000
 title: Beef Stroganoff
 slug: 1602523680000-beef-stroganoff
 published: true
 created: 2020-10-12 15:48
-updated: 2024-10-19 21:14
+updated: 2024-10-20 14:21
 tags:
   - pasta
   - beef

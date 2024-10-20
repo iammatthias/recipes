@@ -1,10 +1,9 @@
 ---
-id: 1709064533452
 title: Bermuda Hundred
 slug: 1709064533452-bermuda-hundred
 published: true
 created: 2024-02-27 12:08
-updated: 2024-10-19 21:14
+updated: 2024-10-20 14:22
 tags:
   - gin
   - campari

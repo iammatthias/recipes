@@ -1,10 +1,9 @@
 ---
-id: 1714335695318
 title: Vegetarian Coconut Curry Ramen
 slug: 1714335695318-vegetarian-coconut-curry-ramen
 published: true
 created: 2024-04-28 13:21
-updated: 2024-10-19 21:16
+updated: 2024-10-20 14:23
 tags:
   - "#ramen"
   - "#vegetarian"

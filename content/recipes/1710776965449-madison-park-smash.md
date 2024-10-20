@@ -1,10 +1,9 @@
 ---
-id: 1710776965449
 title: Madison Park Smash
 slug: 1710776965449-madison-park-smash
 published: false
 created: 2024-03-18 08:49
-updated: 2024-10-19 21:15
+updated: 2024-10-20 14:23
 tags:
   - cocktails
   - cognac

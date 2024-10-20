@@ -1,10 +1,9 @@
 ---
-id: 1710045021303
 title: Pineapple Bourbon Honey Sour
 slug: 1710045021303-pineapple-bourbon-honey-sour
 published: true
 created: 2024-03-09 20:30
-updated: 2024-10-19 21:15
+updated: 2024-10-20 14:22
 tags:
   - sour
   - cocktails

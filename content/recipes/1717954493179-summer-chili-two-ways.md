@@ -1,10 +1,9 @@
 ---
-id: 1717954493179
 title: Summer chili, two ways
 slug: 1717954493179-summer-chili-two-ways
 published: true
 created: 2024-06-09 10:34
-updated: 2024-10-19 21:16
+updated: 2024-10-20 14:24
 tags:
   - chili
   - summer

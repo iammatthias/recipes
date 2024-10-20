@@ -1,10 +1,9 @@
 ---
-id: 1729456768249
 title: Spicy Tom Kha with Char-grilled Pork Loin
 slug: 1729456768249-spicy-tom-kha-with-char-grilled-pork-loin
 published: true
 created: 2024-10-20 13:39
-updated: 2024-10-20 13:51
+updated: 2024-10-20 14:24
 tags:
   - soup
   - thai

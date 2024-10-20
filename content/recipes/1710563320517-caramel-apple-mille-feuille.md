@@ -1,10 +1,9 @@
 ---
-id: 1710563320517
 title: Caramel Apple Mille Feuille
 slug: 1710563320517-caramel-apple-mille-feuille
 published: true
 created: 2024-03-15 21:28
-updated: 2024-10-19 21:15
+updated: 2024-10-20 14:23
 tags:
   - dessert
   - pastry

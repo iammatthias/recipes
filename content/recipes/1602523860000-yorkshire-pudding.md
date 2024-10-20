@@ -1,10 +1,9 @@
 ---
-id: 1602523860000
 title: Yorkshire Pudding
 slug: 1602523860000-yorkshire-pudding
 published: true
 created: 2020-10-12 15:51
-updated: 2024-10-19 21:14
+updated: 2024-10-20 14:22
 tags:
   - baking
   - bread

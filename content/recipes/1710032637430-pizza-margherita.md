@@ -1,10 +1,9 @@
 ---
-id: 1710032637430
 title: Pizza Margherita
 slug: 1710032637430-pizza-margherita
 published: true
 created: 2024-03-09 17:03
-updated: 2024-10-19 21:15
+updated: 2024-10-20 14:22
 tags:
   - pizza
   - dough

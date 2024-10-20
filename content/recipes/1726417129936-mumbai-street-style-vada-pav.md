@@ -1,10 +1,9 @@
 ---
-id: 1726417129936
 title: Mumbai Street Style Vada Pav
 slug: 1726417129936-mumbai-street-style-vada-pav
 published: true
 created: 2024-09-15 09:18
-updated: 2024-10-19 21:16
+updated: 2024-10-20 14:24
 tags:
   - indian
   - street
