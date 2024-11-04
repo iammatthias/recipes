@@ -3,7 +3,7 @@ title: Spicy Tom Kha with Char-grilled Pork Loin
 slug: 1729456768249-spicy-tom-kha-with-char-grilled-pork-loin
 published: true
 created: 2024-10-20 13:39
-updated: 2024-10-20 14:24
+updated: 2024-11-04 15:31
 tags:
   - soup
   - thai
@@ -13,7 +13,7 @@ tags:
   - pork
   - grilled
 ---
-
+3
 **Yield:** 2 servings
 
 ## Spicy Tom Kha
