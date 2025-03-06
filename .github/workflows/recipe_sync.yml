@@ -20,10 +20,18 @@ jobs:
         with:
           fetch-depth: 1
 
+      - name: Generate GitHub App Token
+        id: generate-token
+        uses: tibdex/github-app-token@v1
+        with:
+          app_id: ${{ secrets.APP_ID }}
+          private_key: ${{ secrets.APP_PRIVATE_KEY }}
+          repository: your-username/private-recipes-repo  # Change this to your private repo
+
       - name: Trigger workflow in private repo
         uses: peter-evans/repository-dispatch@v2
         with:
-          token: ${{ secrets.PRIVATE_REPO_PAT }}
-          repository: iammatthias/obsidian_cms  # Change this to your private repo
+          token: ${{ steps.generate-token.outputs.token }}
+          repository: iammatthias/obsidian_cms
           event-type: public-repo-updated
           client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}", "pr_number": "${{ github.event.pull_request.number }}", "pr_title": "${{ github.event.pull_request.title }}"}'
